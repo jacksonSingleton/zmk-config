@@ -14,11 +14,6 @@
 
 
 / {
-    macros {
-        swap_device: swap_device {
-            
-        }
-    }
     keymap {
         compatible = "zmk,keymap";
 
